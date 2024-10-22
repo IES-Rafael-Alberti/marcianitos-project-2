@@ -2,11 +2,11 @@
 
 [Referencia](https://blog.hubspot.es/marketing/como-hacer-analisis-mercado)
 
-## Cuáles son los tres países en los que podría tener más ventas y por qué
+## Cuáles son los tres países en los que podría tener más ventas
 
-1. TODO:Respuesta
-2. TODO:Respuesta
-3. TODO:Respuesta
+1. CHINA
+2. EEUU
+3. BRASIL
 
 ### Detalles del área de venta
 
