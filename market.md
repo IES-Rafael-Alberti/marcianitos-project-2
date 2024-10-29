@@ -25,7 +25,8 @@ El primero se debe a su facilidad a la hora de controlar el juego con aquellos p
 Fans de:
 
 - Roguelikes: Debido a que la mayor parte del público de este juego suele tener tendencias a jugar a juegos con sistemas similares independientemente de la ambientación o el género del juego.
-- Shoot 'em ups
-- Ciencia ficción
+- Shoot 'em ups: Debido a que es una comunidad pequeña que suele probar todo tipo de juegos del mismo género.
+- Ciencia ficción: Debido a la ambientación futurista y steampunk en donde se desarrolla nuestro título.
 
-Jugadores casuales y hardcore. Edades a partir de 7 años.
+Jugadores casuales: Para pasar un rato entretenido y rápido mientras estas en el metro, por ejemplo.
+Jugadores hardcores: Para mostrar sus habilidades en desafíos más emocionantes haciendo diferentes combinaciones de skills en diferentes partidas.
